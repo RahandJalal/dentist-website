@@ -10,7 +10,7 @@ A full-stack dental clinic web application that allows patients to browse dental
 - **Online Booking:** Dynamic appointment scheduling form connected to a backend database.
 - **Admin & Management:** Database storage for appointments, doctor records, and patient messages.
 - **Responsive Layout:** Clean UI adaptable across desktop and mobile devices.
-
+- **AI Dental Chatbot:** Integrated assistant powered by an external API to answer patient inquiries, clinic hours, and basic dental advice in real time.
 ---
 
 ## 🛠️ Built With
